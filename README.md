@@ -3,22 +3,30 @@
 # Table of Contents
 
 1. [Project Background](#project-background)
-2. [Data Columns Explanation](#data-columns-explanation)
-3. [Financial Context](#financial-context)
-4. [Significance of Financial Analysis](#significance-of-financial-analysis)
-5. [Business Context](#business-context)
-6. [Objectives](#objectives)
-7. [Key Calculations](#key-calculations)
-8. [Methodology](#methodology)
-9. [Key Findings](#key-findings)
-10. [Recommendations](#recommendations)
-11. [Conclusion](#conclusion)
+2. project deliverables
+3. [Data Columns Explanation](#data-columns-explanation)
+4. [Financial Context](#financial-context)
+5. [Significance of Financial Analysis](#significance-of-financial-analysis)
+6. [Business Context](#business-context)
+7. [Objectives](#objectives)
+8. [Key Calculations](#key-calculations)
+9. [Methodology](#methodology)
+10. [Key Findings](#key-findings)
+11. [Recommendations](#recommendations)
+12. [Conclusion](#conclusion)
 
 
 
-### Project Background
+# Project Background
 
-This Power BI project is dedicated to conducting a comprehensive financial performance analysis of the Office Supply dataset. The dataset serves as a valuable source of information, capturing intricate details related to the sales of office supplies. Our focus is on deriving meaningful financial insights to support strategic decision-making and enhance overall business profitability.
+This Power BI project is dedicated to conducting a comprehensive financial performance analysis of the Office Supply dataset. The dataset serves as a valuable source of information, capturing intricate details related to the sales of office supplies. Our focus is on deriving meaningful financial insights to support strategic decision-making and enhance overall business profitability. Dataset was downloaded from [https://kaggle.com] 
+
+### Project Deliverables
+
+In addition to the Power BI dashboard and detailed analysis, this project includes a PowerPoint presentation summarizing key findings, insights, and recommendations. The presentation serves as a concise overview for stakeholders who may prefer a visual and narrative summary of the financial analysis.
+
+...
+
 
 ### Dataset Columns Explanation
 
@@ -192,6 +200,8 @@ By delving into these nuances, we are better equipped to navigate the complex te
 This synthesis of findings not only provides us with a comprehensive understanding of our current standing but also serves as a compass for steering our business towards a future of enhanced performance and profitability.
 
 
+
+<img width="638" alt="Screenshot 2024-01-23 061621" src="https://github.com/Richieprizie/POWER-BI-PROJECT/assets/141673351/8cf06339-1b82-48e3-bf31-7408c5e25ddf">
 
 
 
