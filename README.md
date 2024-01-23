@@ -3,7 +3,7 @@
 # Table of Contents
 
 1. [Project Background](#project-background)
-2. project deliverables
+2. [project deliverables](#project-deliverables)
 3. [Data Columns Explanation](#data-columns-explanation)
 4. [Financial Context](#financial-context)
 5. [Significance of Financial Analysis](#significance-of-financial-analysis)
