@@ -32,9 +32,9 @@ In addition to the Power BI dashboard and detailed analysis, this project includ
 
 1. ### order_id:
 
-    Data Type: Unique Identifier (Alphanumeric).
+ Data Type: Unique Identifier (Alphanumeric).
    
-    Explanation: The order_id column serves as a unique identifier for each order in the dataset. It is an alphanumeric code 
+ Explanation: The order_id column serves as a unique identifier for each order in the dataset. It is an alphanumeric code 
     assigned to distinguish and track individual orders.
 
 2. ### order_date:
