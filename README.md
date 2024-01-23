@@ -143,19 +143,17 @@ Despite contributing the most to total revenue, Oyo State lacks profitability pr
 
 A substantial increase in A4 paper sales during December 2014 indicates a notable market demand for this product. Understanding the factors behind this surge can provide valuable insights for successful strategies that can be applied to other products or periods. It's essential to investigate what contributed to the increased demand and replicate successful elements.
 
-3. #### A4 Paper Sales Surge in December 2014:
 
-A substantial increase in A4 paper sales during December 2014 indicates a notable market demand for this product. Understanding the factors behind this surge can provide valuable insights for successful strategies that can be applied to other products or periods. It's essential to investigate what contributed to the increased demand and replicate successful elements.
+
+3. #### Revenue Drivers: Biro, Notepad, and Markers:
+
+Biro, Notepad, and Markers emerge as pivotal revenue drivers, showcasing their popularity and market demand. A strategic focus on these items can further optimize sales and marketing efforts. Understanding consumer preferences for these products can lead to targeted marketing strategies to enhance their market presence.
 
 4. #### Revenue Drivers: Biro, Notepad, and Markers:
 
 Biro, Notepad, and Markers emerge as pivotal revenue drivers, showcasing their popularity and market demand. A strategic focus on these items can further optimize sales and marketing efforts. Understanding consumer preferences for these products can lead to targeted marketing strategies to enhance their market presence.
 
-5. #### Revenue Drivers: Biro, Notepad, and Markers:
-
-Biro, Notepad, and Markers emerge as pivotal revenue drivers, showcasing their popularity and market demand. A strategic focus on these items can further optimize sales and marketing efforts. Understanding consumer preferences for these products can lead to targeted marketing strategies to enhance their market presence.
-
-6. #### Revenue Increase in 2014:
+5. #### Revenue Increase in 2014:
 
 There was a substantial increase in revenue in 2014 compared to 2013. The revenue in 2013 was 27 million Naira, while in 2014, it surged to 94 million Naira. This significant growth indicates positive market dynamics or successful business strategies implemented during 2014.
 
