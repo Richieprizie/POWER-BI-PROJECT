@@ -3,7 +3,7 @@
 # Table of Contents
 
 1. [Project Background](#project-background)
-2. [project deliverables](#project-deliverables)
+2. [Project Deliverables](#project-deliverables)
 3. [Data Columns Explanation](#data-columns-explanation)
 4. [Financial Context](#financial-context)
 5. [Significance of Financial Analysis](#significance-of-financial-analysis)
@@ -14,6 +14,8 @@
 10. [Key Findings](#key-findings)
 11. [Recommendations](#recommendations)
 12. [Conclusion](#conclusion)
+13. [Data Visualization](#data-visualization)
+
 
 
 
@@ -198,6 +200,8 @@ By delving into these nuances, we are better equipped to navigate the complex te
 This synthesis of findings not only provides us with a comprehensive understanding of our current standing but also serves as a compass for steering our business towards a future of enhanced performance and profitability.
 
 
+
+### Data visualization
 
 <img width="638" alt="Screenshot 2024-01-23 061621" src="https://github.com/Richieprizie/POWER-BI-PROJECT/assets/141673351/8cf06339-1b82-48e3-bf31-7408c5e25ddf">
 
